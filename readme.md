@@ -4,4 +4,4 @@ Tenemos varios archivos como dockerfile y el docker compose tu simplemente tiene
 ```
 docker compose up
 ```
-
+quique magraner sanchez
